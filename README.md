@@ -1,2 +1,0 @@
-# myfirsthtmldoc
-HTML page hosting
